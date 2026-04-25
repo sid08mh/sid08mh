@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sid! 👋
 
-<!--
-**sid08mh/sid08mh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science major** and **Electrical Engineering minor** at the University of Illinois Chicago. I'm passionate about low-level programming, embedded systems, and building efficient software solutions.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack
+* **Languages:** C++, C, Python, Java, x86-64 Assembly
+* **Tools & Systems:** Linux (Ubuntu), GDB, Valgrind, Git, GitHub, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Projects
+* **BST Map Implementation:** A custom, memory-efficient map built from scratch in C++.
+* **Attack Lab:** Reverse engineering and exploiting stack vulnerabilities using assembly.
+
+---
+📫 **Connect with me:** [Paste your LinkedIn Link Here]
