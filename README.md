@@ -4,7 +4,7 @@ I am a **Computer Science major** and **Electrical Engineering minor** at the Un
 
 ### 🛠 My Tech Stack
 * **Languages:** C++, C, Python, Java, x86-64 Assembly
-* **Tools & Systems:** Linux (Ubuntu), GDB, Valgrind, Git, GitHub, AWS
+* **Tools & Systems:** Linux (Ubuntu), GDB, Valgrind, Git, GitHub
 
 ### 🔭 Current Projects
 * **BST Map Implementation:** A custom, memory-efficient map built from scratch in C++.
